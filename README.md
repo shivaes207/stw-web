@@ -4,7 +4,7 @@
 
 # Endnotes
 
-<a href="https://lantro-ui.shivatechnicworld.eu.org/p/purchase.html"> Purchase Now </a>
+<a href="https://lantro-ui.shivatechnicworld.eu.org/p/purchase.html"> Purchase Now </a> <br/>
 <a href="https://lantro-ui.shivatechnicworld.eu.org"> Demo </a>
 
 
