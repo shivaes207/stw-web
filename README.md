@@ -3,7 +3,7 @@
 
 <ol>
 <li> First of all, you need to buy the theme from <a href='https://lantro-ui.shivatechnicworld.eu.org/p/purchase.html'>purchase page</a>
-<li> Then first restore the <strong>blank.xml</strong>
+<li> Then first restore the <strong>blank.xml</strong>. <br/>
 A sample blank.xml is provided here.
 <pre><code>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;
@@ -22,4 +22,7 @@ A sample blank.xml is provided here.
 &lt;/body&gt;
 &lt;/html&gt;
 </pre></code>
+<li> Then apply the base theme. <br/>
+  A sample of the stats is given below of Lantro UI 1.5 </br>
+  <img src='https://i3.extraimage.xyz/pix/2022/10/22/RXQJak.jpg' alt='lantro_ui' />
 
