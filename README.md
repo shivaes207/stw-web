@@ -44,33 +44,20 @@ A sample blank.xml is provided here.
   
   ### Endnotes
   
-  <pre><code>
-  
-  
+  <code>
 Thanks for purchasing Lantro UI!
-
 <!--[ About Lantro UI ]-->
-
 * Lantro UI is fully optimized Blogger template with many that you might be like. 
 * You can use this thme for Blog in any category.
 * Lantro UI load's faster for better user experience.
-
-<!--[ Note ]-->
-
+<!--[Note]-->
 * You must not distribute/resell this theme, If you do so, you will not get the updates.
-
 <!--[ Support ]-->
-
 * We give you 15 days support that includes customization, bug fixes etc.
-
 <!--[ Donate ]-->
-
 * You can support this project by donating us, you can donate us via UPI: shivatechnicworld@upi
-
-
 Thanks for Reading!
    © Shiva Technic World
    ® Freeplay Inc.
-   
- </pre></code>
+ </code>
 
