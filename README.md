@@ -34,5 +34,43 @@ A sample blank.xml is provided here.
   P.S : The cdn is <code>https://cdn.jsdelivr.net/gh/shivatechnicworld/stw-web@master/lui-v4-premium.min.js</code> is old and obsolete. Users are requested to update
   the cdn to <code>https://cdn.jsdelivr.net/gh/shivatechnicworld/stw-web@main/lui-v4.11-premium.min.js</code>
   
+  ### Changelogs
   
+  A view on changelogs has been updated <a href='https://graph.org/Lantro-UI-09-01'>here</a>
+  
+  ### Purchase
+  
+  <a href='https://lantro-ui.shivatechnicworld.eu.org/p/purchase.html'>Purchase Page</a>
+  
+  ### Endnotes
+  
+  <pre><code>
+  
+  
+Thanks for purchasing Lantro UI!
+
+<!--[ About Lantro UI ]-->
+
+* Lantro UI is fully optimized Blogger template with many that you might be like. 
+* You can use this thme for Blog in any category.
+* Lantro UI load's faster for better user experience.
+
+<!--[ Note ]-->
+
+* You must not distribute/resell this theme, If you do so, you will not get the updates.
+
+<!--[ Support ]-->
+
+* We give you 15 days support that includes customization, bug fixes etc.
+
+<!--[ Donate ]-->
+
+* You can support this project by donating us, you can donate us via UPI: shivatechnicworld@upi
+
+
+Thanks for Reading!
+   © Shiva Technic World
+   ® Freeplay Inc.
+   
+ </pre></code>
 
