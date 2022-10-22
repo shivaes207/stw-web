@@ -44,7 +44,7 @@ A sample blank.xml is provided here.
   
   ### Endnotes
   
-  <code>
+<pre> <code>
 Thanks for purchasing Lantro UI!
 <!--[ About Lantro UI ]-->
 * Lantro UI is fully optimized Blogger template with many that you might be like. 
@@ -59,5 +59,5 @@ Thanks for purchasing Lantro UI!
 Thanks for Reading!
    © Shiva Technic World
    ® Freeplay Inc.
- </code>
+</code></pre>
 
