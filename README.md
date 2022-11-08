@@ -4,7 +4,7 @@
 <img border="0" data-original-height="720" data-original-width="1280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgs0pUKHVdMPB4v560mqsmfUBb9HTuBLLi-M47wbXfKq3r0MvyyBmHEBm6a8GB9cITmmB4mDrcMU_QBC8PIbexHTgmwinE-IVyyUFKDoQUCvgsA9DmMY0HvUNJ1xhUzn66J_LdJ3WkmF4fljcNADsTqCwKnscAWfi9ra6yg_XwEEDeQ3oZ9XCf2aZz/s16000/Lantro%20UI.png" />
 
 <ol>
-<li> First of all, you need to buy the theme from <a href='https://lantro-ui.shivatechnicworld.eu.org/p/purchase.html'>purchase page</a>
+<li> First of all, you need to buy the theme from <a href='https://lantro-ui.eu.org/p/purchase.html'>purchase page</a>
 <li> Then first restore the <strong>blank.xml</strong>. <br/>
 A sample blank.xml is provided here.
 <pre><code>
@@ -42,5 +42,5 @@ A sample blank.xml is provided here.
   
 ### Purchase
   
-  <a href='https://lantro-ui.shivatechnicworld.eu.org/p/purchase.html'>Purchase Page</a>
+  <a href='https://lantro-ui.eu.org/p/purchase.html'>Purchase Page</a>
   
