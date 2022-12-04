@@ -25,7 +25,7 @@ A sample blank.xml is provided here.
 &lt;/html&gt;
 </pre></code>
 <li> Then apply the base theme. <br/>
-  A sample of the stats is given below of (Lantro UI 1.5) </br>
+  A sample of the stats is given below of (Lantro UI 1.5) <br> <br>
   <img src='https://i3.extraimage.xyz/pix/2022/10/22/RXQJak.jpg' alt='lantro_ui' />
   
 ### Documentations
