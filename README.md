@@ -31,7 +31,7 @@ A sample blank.xml is provided here.
 ### Documentations
   
   According to DMCA guidelines, Lantro UI strictly uses its own code and encrypts them as per the rules. <br/>
-  The FAQs regarding the theme are listed well at <a href='https://lantro-ui.shivatechnicworld.eu.org/p/purchase.html'>FAQ SECTION</a> <br/>
+  The FAQs regarding the theme are listed well at <a href='https://lantro-ui.eu.org/p/purchase.html'>FAQ SECTION</a> <br/>
   
   P.S : The cdn is <code>https://cdn.jsdelivr.net/gh/shivatechnicworld/stw-web@master/lui-v4-premium.min.js</code> is old and obsolete. Users are requested to update
   the cdn to <code>https://cdn.jsdelivr.net/gh/shivatechnicworld/stw-web@main/lui-v4.11-premium.min.js</code>
