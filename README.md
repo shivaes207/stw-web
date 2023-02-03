@@ -26,11 +26,12 @@
 
 ## Introduction
 
-<center>
-  <img src='https://img.shields.io/github/forks/shivaes207/stw-web?style=for-the-badge&logo=appveyor' />
-  <img src='https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=appveyor' />
-  <img src='https://img.shields.io/github/repo-size/shivaes207/stw-web?style=for-the-badge&logo=appveyor' />
- </center>
+<p align='center'>
+  <img src='https://img.shields.io/github/forks/shivaes207/stw-web?style=for-the-badge&logo=appveyor' alt='forks' />
+  <img src='https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=appveyor' alt='js' />
+  <img src='https://img.shields.io/github/repo-size/shivaes207/stw-web?style=for-the-badge&logo=appveyor' alt='size' />
+</p>
+
  <br>
  
 <ol>
@@ -57,6 +58,17 @@ A sample blank.xml is provided here.
 <li> Then apply the base theme. <br/>
 </ol>
 
+## Documentations
+  
+  According to DMCA guidelines, Lantro UI strictly uses its own code and encrypts them as per the rules. <br/>
+  Lantro UI Documentations will be updated in the <a href=''>Docs blog</a>. Don't personally PM any admins on telegram and The FAQs regarding the theme are listed well at <a href='https://lantro-ui.eu.org/p/purchase.html'>FAQ SECTION</a>. <br/>
+  
+### Changelogs
+  
+  A view on changelogs has been updated <a href='https://graph.org/Lantro-UI-09-01'>here</a>.
+  
+ ### Purchase
+  
+  <a href='https://lantro-ui.eu.org/p/purchase.html'>Purchase Page</a>
 
-
-
+<a href="https://t.me/stw_discuss"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> 
