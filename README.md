@@ -1,3 +1,4 @@
+<!--[Divider]-->
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # Lantro UI
@@ -63,12 +64,13 @@ A sample blank.xml is provided here.
   According to DMCA guidelines, Lantro UI strictly uses its own code and encrypts them as per the rules. <br/>
   Lantro UI Documentations will be updated in the <a href=''>Docs blog</a>. Don't personally PM any admins on telegram and The FAQs regarding the theme are listed well at <a href='https://lantro-ui.eu.org/p/purchase.html'>FAQ SECTION</a>. <br/>
   
-### Changelogs
+## Changelogs
   
   A view on changelogs has been updated <a href='https://graph.org/Lantro-UI-09-01'>here</a>.
   
- ### Purchase
+## Purchase
   
   <a href='https://lantro-ui.eu.org/p/purchase.html'>Purchase Page</a>
 
-<a href="https://t.me/stw_discuss"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> 
+<!--[Support Chat]-->
+<a href='https://telegram.me/stw_discuss'> <img src='https://img.shields.io/badge/Support-Chat-blue?&logo=telegram' alt='sc' /> 
