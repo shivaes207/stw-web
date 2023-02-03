@@ -15,6 +15,15 @@
 <b> As per our repository definitions</b> we are:
 > Lantro UI is a supreme leader in blogger template.
 
+<br>
+
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Soumyabrata-eng/ErisBot/?ref=repository-badge)
+[![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/stw_discuss)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+
+<br>
+
 
 
 
