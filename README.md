@@ -43,4 +43,10 @@ A sample blank.xml is provided here.
 ### Purchase
   
   <a href='https://lantro-ui.eu.org/p/purchase.html'>Purchase Page</a>
-  
+
+
+<div align='right'>
+<table><td>
+<a href="#start-of-content">↥ Scroll To Top</a>
+</td></table>
+</div>
