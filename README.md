@@ -13,7 +13,7 @@
 
 <br>
 
-<b> As per our repository definitions</b> we are:
+<b> As per our repository definitions</b>, we are:
 > Lantro UI is a supreme leader in blogger template.
 
 <br>
@@ -72,5 +72,12 @@ A sample blank.xml is provided here.
   
   <a href='https://lantro-ui.eu.org/p/purchase.html'>Purchase Page</a>
 
-<!--[Support Chat]-->
-<a href='https://telegram.me/stw_discuss'> <img src='https://img.shields.io/badge/Support-Chat-blue?&logo=telegram' alt='sc' /> 
+## Support
+
+  <a href='https://telegram.me/stw_discuss'> <img src='https://img.shields.io/badge/Support-Chat-blue?&logo=telegram' alt='sc' /> 
+
+<div align='right'>
+<table><td>
+<a href="#start-of-content">↥ Scroll To Top</a>
+</td></table>
+</div>
