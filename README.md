@@ -41,7 +41,7 @@ A sample blank.xml is provided here.
 
 [![Lantro UI Blogger](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfhHfEiRWpHJH8kwssdooiSEtMwmlvemvlbcNMnuWmKoeM7T_Y_hLYzVE8FwZqmmEoxM&usqp=CAU)](https://sourceforge.net/projects/stw-web/files/latest/download)
 
-[![Lantro UI Blogger](https://www.prlog.org/12919168-logicaldoc-wins-open-source-excellence.png)](https://sourceforge.net/projects/stw-web/files/latest/download)
+<a href='https://sourceforge.net/projects/stw-web/files/latest/download'><img src='https://www.prlog.org/12919168-logicaldoc-wins-open-source-excellence.png' width='200px' height='200px'></a>
 
 <!-- End SF Tag -->
 
