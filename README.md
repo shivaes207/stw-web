@@ -39,7 +39,7 @@ A sample blank.xml is provided here.
 <li> Then apply the base theme. <br/>
 </ol>
 
-[![Download Lantro UI Blogger](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfhHfEiRWpHJH8kwssdooiSEtMwmlvemvlbcNMnuWmKoeM7T_Y_hLYzVE8FwZqmmEoxM&usqp=CAU)]
+[![Download Lantro UI Blogger](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDfhHfEiRWpHJH8kwssdooiSEtMwmlvemvlbcNMnuWmKoeM7T_Y_hLYzVE8FwZqmmEoxM&usqp=CAU)](https://sourceforge.net/projects/stw-web/files/latest/download)
 
 <!-- End SF Tag -->
 
