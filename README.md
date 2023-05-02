@@ -12,7 +12,6 @@
 
 <br>
 
-<code>
 
 ## Introduction
  
@@ -40,25 +39,14 @@ A sample blank.xml is provided here.
 <li> Then apply the base theme. <br/>
 </ol>
 
-## Documentations
-  
-  According to DMCA guidelines, Lantro UI strictly uses its own code and encrypts them as per the rules. <br/>
-  Lantro UI Documentations will be updated in the <a href=''>Docs blog</a>. <br/>
-  Don't personally PM any admins on telegram and The FAQs regarding the theme are listed well at <a href='https://lantro-ui.eu.org/p/purchase.html'>FAQ SECTION</a>. <br/>
-  
-## Changelogs
-  
-  A view on changelogs has been updated <a href='https://graph.org/Lantro-UI-09-01'>here</a>.
-  
-## Purchase
-  
-  <a href='https://lantro-ui.eu.org/p/purchase.html'>Purchase Page</a>
 
-## Support
-
-  <a href='https://telegram.me/stw_discuss'> <img src='https://img.shields.io/badge/Support-Chat-blue?&logo=telegram' alt='sc' /> 
-
-</code>
+<!-- Begin SF Tag -->
+<div class="sf-root" data-id="3556411" data-badge="oss-users-love-us-white" style="width:125px">
+    <a href="https://sourceforge.net/projects/stw-web/" target="_blank">Lantro UI Blogger</a>
+</div>
+<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3556411';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
+</script>
+<!-- End SF Tag -->
 
 <div align='right'>
 <table><td>
