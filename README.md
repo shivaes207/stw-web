@@ -12,19 +12,9 @@
 
 <br>
 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/stw_discuss)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-
+<code>
 
 ## Introduction
-
-<p align='center'>
-  <img src='https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=appveyor' alt='js' />
-  <img src='https://img.shields.io/github/repo-size/shivaes207/stw-web?style=for-the-badge&logo=appveyor' alt='size' />
-</p>
-
- <br>
  
 <ol>
 <li> First of all, you need to buy the theme from <a href='https://lantro-ui.eu.org/p/purchase.html'>purchase page</a>.
@@ -67,6 +57,8 @@ A sample blank.xml is provided here.
 ## Support
 
   <a href='https://telegram.me/stw_discuss'> <img src='https://img.shields.io/badge/Support-Chat-blue?&logo=telegram' alt='sc' /> 
+
+</code>
 
 <div align='right'>
 <table><td>
