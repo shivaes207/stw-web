@@ -1,3 +1,6 @@
+> **Note**
+> We have just come up with the latest version of Lantro UI namely 1.6. This theme is different from others and is maintained for a long time. To be frank, we went with more open source codes, leaving no disparity between the end user and the seller. Contact <a href='https://telegram.me/stw_discuss'>Telegram</a> or mail me at <a href='mailto:admin@shivatechnicworld.eu.org'>email or call us in our telephone number <code>+91 90903 13229</code>
+
 # Lantro UI Project : A supreme leader in blogger template
 ### Repository is open source and well documented. The repository won't be open source after 1.5 launch.
 
