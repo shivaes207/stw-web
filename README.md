@@ -2,10 +2,6 @@
 > 
 > We have just come up with the latest version of Lantro UI namely 1.6. This theme is different from others and is maintained for a long time. To be frank, we went with more open source codes, leaving no disparity between the end user and the seller. Contact <a href='https://telegram.me/stw_discuss'>Telegram</a> or mail me at <a href='mailto:admin@shivatechnicworld.eu.org'>email</a> or call us in our telephone number <code>+91 90903 13229</code>
 
-> [!IMPORTANT]  
-> Docs are updated at <a href='https://yaso.su/lantroui'>yaso.su/lantroui</a>
-
-
 # Lantro UI Project : A supreme leader in blogger template
 ### Repository is open source and well documented. The repository won't be open source after 1.5 launch.
 
@@ -43,6 +39,9 @@ A sample blank.xml is provided here.
   
   P.S : <b> The cdn is <code>https://cdn.jsdelivr.net/gh/shivatechnicworld/stw-web@master/lui-v4-premium.min.js</code> is old and obsolete. Users are requested to update
   the cdn to <code>https://cdn.jsdelivr.net/gh/shivatechnicworld/stw-web@main/lui-v4.11-premium.min.js</code> </b>
+
+  > [!IMPORTANT]  
+  > Docs are updated at <a href='https://yaso.su/lantroui'>yaso.su/lantroui</a>
   
 ### Changelogs
   
