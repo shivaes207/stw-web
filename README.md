@@ -46,10 +46,6 @@ A sample blank.xml is provided here.
 ### Changelogs
   
   A view on changelogs has been updated <a href='https://graph.org/Lantro-UI-09-01'>here</a>
-  
-### Purchase
-  
-  <a href='https://lantro-ui.eu.org/p/purchase.html'>Purchase Page</a>
 
 
 <div align='right'>
